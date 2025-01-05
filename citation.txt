@@ -1,0 +1,8 @@
+@inproceedings{REPO372,
+    author = "Jian, Juntao and Liu, Xiuping and Li, Manyi and Hu, Ruizhen and Liu, Jian",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
+    month = "October",
+    pages = "14713-14724",
+    title = "{AffordPose: A Large-Scale Dataset of Hand-Object Interactions with Affordance-Driven Hand Pose}",
+    year = "2023"
+}
